@@ -1,0 +1,1 @@
+ D:\\WhatsUp\\.dart_tool\\flutter_build\\ed14d64e014258e8d555279d3161150d\\native_assets.yaml: 
